@@ -1,4 +1,3 @@
-Here’s a properly formatted version of your Linux 101 exercises:
 
 # **Linux 101 👷🏻**
 
