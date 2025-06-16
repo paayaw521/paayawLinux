@@ -66,7 +66,7 @@ File permissions are assigned to three categories:
 ### Questions
 - [ ] **Using a Linux command, get the first 3 lines in the `animals.txt` file.**
 - [ ] **Count only the words within this range. 🫣**
-![alt text](linux.png)
+![alt text](images/linux.png)
 ---
 
 ## Exercise 5: Text Search
@@ -79,7 +79,7 @@ File permissions are assigned to three categories:
 
 ### Additional Task
 - [ ] **Using this command, search for the words `Nutshell`, `Perl`, and `Dansoman` in `animals.txt`.**
-![alt text](grep.png)
+![alt text](images/grep.png)
 
 ## Exercise 6: Directory Operations
 
@@ -225,7 +225,7 @@ Alice Brown,Computer Science,3.6
 - [ ] Sort the file by GPA (last column).
 - [ ] Replace all occurrences of "Computer Science" with "CS" and check the final output.
 
-![alt text](ex14.png)
+![alt text](images/ex14.png)
 
 ## Exercise 15: Log Analysis
 
@@ -245,5 +245,5 @@ Alice Brown,Computer Science,3.6
 - [ ] Count how many WARNING entries exist.
 - [ ] Extract all timestamps (first two columns).
 - [ ] Find lines that contain either "login" or "logout".
-![alt text](ex15part1.png)
-![alt text](ex15.png)
+![alt text](images/ex15part1.png)
+![alt text](images/ex15.png)
