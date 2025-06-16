@@ -47,14 +47,14 @@
 - [ ] **Apply the command to the `animals.txt` file attached to this exercise.**
 
 ### **Answer**
-- Image is in the `image` folder.
+- ![alt text](linux.png)
 
 ---
 
 ## **Exercise 4**
 - [ ] **Using a Linux command, get the first 3 lines in the `animals.txt` file.**
 - [ ] **Count only the words within this range. 🫣**
-
+![alt text](linux.png)
 ---
 
 ## **Exercise 5**
@@ -64,8 +64,7 @@
 - `grep`
 
 - [ ] **Using this command, search for the words `Nutshell`, `Perl`, and `Dansoman` in `animals.txt`.**
-
----
+![alt text](grep.png)
 
 ## **Exercise 6**
 - [ ] **What command is used to list all files in a directory?**
@@ -187,7 +186,7 @@ Alice Brown,Computer Science,3.6
 - [ ] Sort the file by GPA (last column).
 - [ ] Replace all occurrences of "Computer Science" with "CS" and check the final output.
 
----
+![alt text](ex14.png)
 
 ## **Exercise 15**
 - [ ] **Create a log file called `server.log` with this content:**
@@ -204,5 +203,5 @@ Alice Brown,Computer Science,3.6
 - [ ] Count how many WARNING entries exist.
 - [ ] Extract all timestamps (first two columns).
 - [ ] Find lines that contain either "login" or "logout".
-
-
+![alt text](ex15part1.png)
+![alt text](ex15.png)
