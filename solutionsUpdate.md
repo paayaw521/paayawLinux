@@ -57,7 +57,7 @@ File permissions are assigned to three categories:
 - [ ] **Apply the command to the `animals.txt` file attached to this exercise.**
 
 ### **Answer**
-- ![alt text](linux.png)
+- ![alt text](images/linux.png)
 
 ---
 
